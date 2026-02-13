@@ -1,4 +1,3 @@
-# base.py
 import numpy as np
 
 def _as_2d(x):
